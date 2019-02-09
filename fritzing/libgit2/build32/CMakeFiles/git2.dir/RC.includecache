@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/America_2019_1/fritzing/libgit2-0.23.1/include/git2/version.h
+
+D:/America_2019_1/fritzing/libgit2-0.23.1/src/win32/git2.rc
+winver.h
+-
+../../include/git2/version.h
+D:/America_2019_1/fritzing/libgit2-0.23.1/include/git2/version.h
+

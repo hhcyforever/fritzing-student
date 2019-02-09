@@ -1,0 +1,8 @@
+D:/America_2019_1/fritzing/libgit2-0.23.1/build64/CMakeFiles/libgit2_clar.dir
+D:/America_2019_1/fritzing/libgit2-0.23.1/build64/CMakeFiles/git2.dir
+D:/America_2019_1/fritzing/libgit2-0.23.1/build64/CMakeFiles/rebuild_cache.dir
+D:/America_2019_1/fritzing/libgit2-0.23.1/build64/CMakeFiles/test.dir
+D:/America_2019_1/fritzing/libgit2-0.23.1/build64/CMakeFiles/install/local.dir
+D:/America_2019_1/fritzing/libgit2-0.23.1/build64/CMakeFiles/install.dir
+D:/America_2019_1/fritzing/libgit2-0.23.1/build64/CMakeFiles/edit_cache.dir
+D:/America_2019_1/fritzing/libgit2-0.23.1/build64/CMakeFiles/list_install_components.dir

@@ -1,0 +1,13 @@
+拖入component的提示
+
+点赞：图片，特定text的显示
+
+highlight某个特定区域
+
+长时间不动的message
+
+//Peer help
+learn by do it
+
+
+

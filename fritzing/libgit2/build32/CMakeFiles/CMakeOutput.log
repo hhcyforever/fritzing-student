@@ -1,0 +1,65 @@
+The system is: Windows - 10.0.16299 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: G:/Visual Studio/VC/Tools/MSVC/14.16.27023/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.16.27026.1 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.16.27026.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/America_2019_1/fritzing/libgit2-0.23.1/build64/CMakeFiles/3.13.3/CompilerIdC/CMakeCCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/America_2019_1/fritzing/libgit2-0.23.1/build64/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/nologo" "cmTC_daab0\fast"
+	"G:\Visual Studio\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_daab0.dir\build.make /nologo -L                  CMakeFiles\cmTC_daab0.dir\build
+Building C object CMakeFiles/cmTC_daab0.dir/testCCompiler.c.obj
+	"G:\Visual Studio\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\cl.exe" @C:\Users\lenovo\AppData\Local\Temp\nmAE42.tmp
+testCCompiler.c
+Linking C executable cmTC_daab0.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_daab0.dir --manifests  -- "G:\Visual Studio\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_daab0.dir\objects1.rsp @C:\Users\lenovo\AppData\Local\Temp\nmB111.tmp
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/America_2019_1/fritzing/libgit2-0.23.1/build64/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/nologo" "cmTC_963e2\fast"
+	"G:\Visual Studio\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_963e2.dir\build.make /nologo -L                  CMakeFiles\cmTC_963e2.dir\build
+Building C object CMakeFiles/cmTC_963e2.dir/CMakeCCompilerABI.c.obj
+	"G:\Visual Studio\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\cl.exe" @C:\Users\lenovo\AppData\Local\Temp\nmBB32.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_963e2.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_963e2.dir --manifests  -- "G:\Visual Studio\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_963e2.dir\objects1.rsp @C:\Users\lenovo\AppData\Local\Temp\nmBC6C.tmp
+
+
+
+
+Detecting C [] compiler features compiled with the following output:
+Change Dir: D:/America_2019_1/fritzing/libgit2-0.23.1/build64/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/nologo" "cmTC_fc073\fast"
+	"G:\Visual Studio\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_fc073.dir\build.make /nologo -L                  CMakeFiles\cmTC_fc073.dir\build
+Building C object CMakeFiles/cmTC_fc073.dir/feature_tests.c.obj
+	"G:\Visual Studio\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\cl.exe" @C:\Users\lenovo\AppData\Local\Temp\nmC276.tmp
+feature_tests.c
+Linking C executable cmTC_fc073.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_fc073.dir --manifests  -- "G:\Visual Studio\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_fc073.dir\objects1.rsp @C:\Users\lenovo\AppData\Local\Temp\nmC371.tmp
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_variadic_macros
