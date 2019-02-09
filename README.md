@@ -7,7 +7,7 @@ boost等库已添加，无需另加
 
 2. 代码简介    
 进入fritzing/fritzing-app/src    
-大部分代码改动在：
+大部分代码改动在：   
 (1)mainwindow/mainwindow.cpp   
 (2)sketch/sketchwidget.cpp    
 (3)Singleton.cpp    
